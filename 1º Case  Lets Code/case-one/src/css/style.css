@@ -1,0 +1,109 @@
+@font-face {
+    font-family: "AeonikTRIAL-Bold";
+    src: url("../../fonte/AeonikTRIAL-Bold.otf");
+}
+
+body {
+    font-family: 'AeonikTRIAL-Bold';
+}
+
+hr {
+    color: #fff;
+}
+
+.navbar {
+    background-color: #e6e7eb;
+}
+
+input {
+    float: left;
+    padding: 6px;
+    width: 25rem;
+    margin-left: 40rem;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.btn-conta {
+    width: 5rem;
+    height: 2.5rem;
+}
+
+#main {
+    height: 100%;
+    max-width: 90rem;
+    margin: 0 auto;
+    margin-left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+#container {
+    margin-left: 390px;
+    text-align: center;
+}
+
+.span-index span {
+    color: #03071a;
+    font-weight: 800;
+}
+
+#container .card {
+    margin-top: 65px;
+    margin-left: 25px;
+    height: 200px;
+}
+
+#container .card p {
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+#container .card a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+#container .card img {
+    margin: 10px;
+}
+
+#main-produtos {
+    margin-left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+#main-produtos .cod {
+    width: 80px;
+    margin: 0;
+}
+
+#main-produtos select {
+    margin: 0;
+}
+
+#main-produtos input {
+    margin: 0;
+}
+
+#main-entradas {
+    margin-left: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+#main-entradas input {
+    margin: 0;
+}
+@media (max-width:105em){
+    .container{
+        margin-left: 12rem;
+
+    }
+
+
+    
+}
